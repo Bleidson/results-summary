@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-using-media-queries-and-flexbox-css-8hBHg1c05F)
-- Live Site URL: [Add live site URL here](https://bleidson.github.io/result-summary)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-page-using-media-queries-and-flexbox-css-8hBHg1c05F)
+- Live Site URL: (https://bleidson.github.io/result-summary)
 
 ## My process
 
