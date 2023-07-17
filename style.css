@@ -23,7 +23,7 @@
 
     /*Font*/
 
-    --font-size-p:16px;
+    --font-size-p:18px;
     --font-family:'Hanken Grotesk', sans-serif;
     
 }
@@ -40,17 +40,17 @@ body{
 
 main{
     min-width: 375px;
+    
 }
 .your-result{
     background-image: linear-gradient(to bottom, var(--back-0), var(--back-1));
     color: var(--white);
     border-radius: 0px 0px 30px 30px;
-    padding: 20px 40px
-    40px 40px ;
+    padding: 20px ;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    
     
 }
 
@@ -64,8 +64,8 @@ main{
 .result{
     
     background-image: linear-gradient(to bottom, var(--circle-0), var(--circle-1));
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -176,7 +176,7 @@ button:hover{
     main{
         display: flex;
         flex-direction: row;
-        width: 800px;
+        width: 700px;
         max-width: 800px;
         position: absolute;
         top: 50%;
@@ -188,7 +188,7 @@ button:hover{
 
     .your-result{
         flex: 1;
-        border-radius: 20px 0px 0px 20px;
+        border-radius: 20px;
     }
 
     .your-result p{
